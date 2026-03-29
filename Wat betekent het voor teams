@@ -7,20 +7,20 @@
     <style>
         body { margin: 0; font-family: Arial, sans-serif; }
         header { background: #4b2e83; padding: 20px; }
-        header a { color: white; margin-right: 20px; text-decoration: none; font-size: 18px; }
+        header a { color: white; margin-right: 25px; text-decoration: none; font-size: 18px; }
         img { width: 100%; height: auto; display: block; }
     </style>
 </head>
 <body>
 
 <header>
-    <a href="index.html">Cultuur</a>
-    <a href="Voor de medewerker.html">Voor de Medewerker</a>
-    <a href="Hoe bereid jij je voor.html">Voorbereiding</a>
-    <a href="Wat betekent het voor teams.html">Teams</a>
+    <a href="Home-cultuur">Cultuur</a>
+    <a href="Voor de medewerker">Voor de Medewerker</a>
+    <a href="Hoe bereid jij je voor">Voorbereiding</a>
+    <a href="Wat betekent het voor teams">Teams</a>
 </header>
 
-<img src="Wat betekent het voor teams.jpg">
+<img src="Wat betekent het voor teams.jpg" alt="Teams">
 
 </body>
 </html>
