@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cultuur</title>
+    <style>
+        body { margin: 0; font-family: Arial, sans-serif; }
+        header { background: #4b2e83; padding: 20px; }
+        header a { color: white; margin-right: 20px; text-decoration: none; font-size: 18px; }
+        img { width: 100%; height: auto; display: block; }
+    </style>
+</head>
+<body>
+
+<header>
+    <a href="index.html">Cultuur</a>
+    <a href="Voor de medewerker.html">Voor de Medewerker</a>
+    <a href="Hoe bereid jij je voor.html">Voorbereiding</a>
+    <a href="Wat betekent het voor teams.html">Teams</a>
+</header>
+
+<img src="Cultuur.jpg">
+
+</body>
+</html>
